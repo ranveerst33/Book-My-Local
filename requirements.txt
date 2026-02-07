@@ -1,0 +1,6 @@
+Flask==2.2.5
+mysql-connector-python==8.0.33
+Werkzeug==2.2.3
+qrcode==7.4.2
+pillow==9.5.0
+xhtml2pdf==0.2.11  # For exporting tickets as PDF (optional, if PDF feature added)
