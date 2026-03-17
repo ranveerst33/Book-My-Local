@@ -80,4 +80,7 @@ BookMyLocal/
     ├── bookings.html
     └── ticket.html
 ```
+## 👨‍💻 Author
 
+**Ranveer Singh Thakur**  
+📩 [ranveersinghthakur33@gmail.com](mailto:ranveersinghthakur33@gmail.com)  
